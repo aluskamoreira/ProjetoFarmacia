@@ -16,5 +16,5 @@ public class Cliente extends Pessoa{
 		historicoCompras.add(pedido);
 	}
 	
-	
+	//Classe cliente finalizada.
 }
