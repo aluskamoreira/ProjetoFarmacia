@@ -19,6 +19,6 @@ public class Funcionario extends Pessoa{
 		return salarioBase + comissao;
 	}
 	
-	
+	//Classe funcionario finalizada.
 	
 }
