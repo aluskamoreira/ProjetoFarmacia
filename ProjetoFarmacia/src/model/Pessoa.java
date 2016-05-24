@@ -89,7 +89,7 @@ public class Pessoa {
 		}else{
 			System.out.println("CPF inválido!");
 		}
-		
+	//Super classe pessoa finalizada.	
 	}
 	
 }
