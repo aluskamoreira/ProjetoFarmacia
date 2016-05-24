@@ -1,4 +1,4 @@
-// Comentando a classe MAIN
+// Comentando a classe MAIN.
 package view;
 
 public class Main {
