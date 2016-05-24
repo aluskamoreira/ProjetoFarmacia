@@ -57,5 +57,5 @@ public class Produto {
 	public void setQuantidadeEstoque(int quant){
 		this.quantidadeEstoque = quant;
 	}
-	
+//Classe produto finalizada.	
 }
