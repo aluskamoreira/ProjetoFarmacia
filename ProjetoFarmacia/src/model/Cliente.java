@@ -1,4 +1,6 @@
 // Classe Cliente que herda atributos da super classe Pessoa
+//Pacote Model
+
 package model;
 
 import java.util.ArrayList;
