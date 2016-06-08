@@ -2,7 +2,7 @@
 package model;
 
 //Class Funcionario estende da Classe Pessa// 
-
+//Classe Publica
 public class Funcionario extends Pessoa{
 	private double salarioBase, comissao;
 
